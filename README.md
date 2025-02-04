@@ -9,16 +9,16 @@ A linux cli utility to make ramdisks
 * Do not use Mem-Drive to store important files. <b>The files are deleted on reboot/shutdown. </b>
 
 * download the mem-drive.sh file from the releases page.
-#Install
+# Install
 * open your terminal emulator of choice an type the following in the folder in which you have decided to store the downloded file:
 
 chmod +x mem-drive.sh
 
-#Run
+# Run
 cd /your/install/path
 sudo ./mem-drive.sh
 
-#Note:
+# Note:
 
 * The ramdisk is accessible in the "ramdisk" directory made when runnning the script!
 
